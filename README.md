@@ -3,8 +3,11 @@
 Workshop ministrado na Semana Brasileira de Informática Biomédica.
 
 Girls Palestrantes:
-Ana Clara A. Mioto
-Hayala C. de Souza
+
+Ana Clara A. Mioto 
+
+Hayala C. de Souza 
+
 Rebeca D. H. Silva
 
 
